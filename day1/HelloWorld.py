@@ -25,7 +25,7 @@ print(type('Mario'))
 print(type('Herrero'))
 print(type('Spain'))
 
-# Exercise 3
+# Exercise 3 Euclidian Distance
 
 p1 = 2
 p2 = 3
